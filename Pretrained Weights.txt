@@ -1,0 +1,19 @@
+Pretrained Weights
+==================
+
+Due to GitHub's file size limit, the pretrained weight files are not included
+in this repository.
+
+To obtain the weights, please contact the author by email:
+
+    doctorwhy@gdut.edu.cn
+
+Please include the repository name and the model/experiment you need in your
+request. The files will be sent as a download link.
+
+After downloading, place the weight files in the following directory:
+
+    ./weights/
+
+Note: The weights are provided for academic and non-commercial research use
+only.
