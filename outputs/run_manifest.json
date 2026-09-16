@@ -1,0 +1,11 @@
+{
+  "input_count": 3,
+  "image_size": 512,
+  "wavelength_mm": 0.000625,
+  "pixel_size_mm": 0.00345,
+  "propagation_distance_mm": 4.2,
+  "device": "cpu",
+  "python_version": "3.9.24",
+  "pytorch_version": "2.5.1",
+  "elapsed_seconds": 5.3885822
+}

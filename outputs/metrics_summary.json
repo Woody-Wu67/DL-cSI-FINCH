@@ -1,0 +1,42 @@
+{
+  "phase1/UNet/phase_120": {
+    "count": 3,
+    "mean_psnr_db": 49.58389508985829,
+    "mean_ssim": 0.9895380735397339
+  },
+  "phase1/UNet/phase_240": {
+    "count": 3,
+    "mean_psnr_db": 49.26219712059804,
+    "mean_ssim": 0.9889253377914429
+  },
+  "phase2/MambaUNet1/orientation_0_phase_0": {
+    "count": 3,
+    "mean_psnr_db": 28.726869778712253,
+    "mean_ssim": 0.8124456604321798
+  },
+  "phase2/MambaUNet1/orientation_90_phase_0": {
+    "count": 3,
+    "mean_psnr_db": 28.615615664381483,
+    "mean_ssim": 0.7839041948318481
+  },
+  "phase2/MambaUNet2/orientation_0_phase_120": {
+    "count": 3,
+    "mean_psnr_db": 28.99194422621399,
+    "mean_ssim": 0.817124088605245
+  },
+  "phase2/MambaUNet2/orientation_90_phase_120": {
+    "count": 3,
+    "mean_psnr_db": 29.882381767083185,
+    "mean_ssim": 0.8151296377182007
+  },
+  "phase2/MambaUNet3/orientation_0_phase_240": {
+    "count": 3,
+    "mean_psnr_db": 30.490536906698367,
+    "mean_ssim": 0.8415369192759196
+  },
+  "phase2/MambaUNet3/orientation_90_phase_240": {
+    "count": 3,
+    "mean_psnr_db": 31.380004865385146,
+    "mean_ssim": 0.8343729178110758
+  }
+}

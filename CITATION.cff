@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "DL-cSI-FINCH"
+type: software
+authors:
+  - family-names: "Wang"
+    given-names: "H."
+  - family-names: "Liao"
+    given-names: "T."
+  - family-names: "Zhong"
+    given-names: "L."
+year: 2026
+repository-code: "https://github.com/Woody-Wu67/DL-cSI-FINCH"
+preferred-citation:
+  type: article
+  title: "Single-shot super-resolution imaging via deep-learning-based composite structured-illumination Fresnel incoherent correlation holography"
+  authors:
+    - family-names: "Wang"
+      given-names: "H."
+    - family-names: "Liao"
+      given-names: "T."
+    - family-names: "Zhong"
+      given-names: "L."
+  year: 2026
+  publisher:
+    name: "GitHub"
+  url: "https://github.com/Woody-Wu67/DL-cSI-FINCH"
